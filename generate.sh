@@ -1,0 +1,1 @@
+grpc_tools_ruby_protoc -Iproto --ruby_out=lib --grpc_out=lib proto/mecab.proto
